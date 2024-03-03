@@ -1,0 +1,7 @@
+D:\Git\Course\Solution4\Task4\bin\Debug\Task4.exe.config
+D:\Git\Course\Solution4\Task4\bin\Debug\Task4.exe
+D:\Git\Course\Solution4\Task4\bin\Debug\Task4.pdb
+D:\Git\Course\Solution4\Task4\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Git\Course\Solution4\Task4\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Git\Course\Solution4\Task4\obj\Debug\Task4.exe
+D:\Git\Course\Solution4\Task4\obj\Debug\Task4.pdb
