@@ -1,0 +1,6 @@
+D:\Git\Course\Lesson5\Task5\bin\Debug\Task5.exe.config
+D:\Git\Course\Lesson5\Task5\bin\Debug\Task5.exe
+D:\Git\Course\Lesson5\Task5\bin\Debug\Task5.pdb
+D:\Git\Course\Lesson5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\Git\Course\Lesson5\Task5\obj\Debug\Task5.exe
+D:\Git\Course\Lesson5\Task5\obj\Debug\Task5.pdb
