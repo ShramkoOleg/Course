@@ -1,0 +1,7 @@
+D:\Git\Course\Lesson17\Task1\bin\Debug\Task1.exe.config
+D:\Git\Course\Lesson17\Task1\bin\Debug\Task1.exe
+D:\Git\Course\Lesson17\Task1\bin\Debug\Task1.pdb
+D:\Git\Course\Lesson17\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Git\Course\Lesson17\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Git\Course\Lesson17\Task1\obj\Debug\Task1.exe
+D:\Git\Course\Lesson17\Task1\obj\Debug\Task1.pdb
